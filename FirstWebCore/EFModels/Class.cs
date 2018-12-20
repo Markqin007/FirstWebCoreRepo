@@ -8,9 +8,5 @@ namespace FirstWebCore.EFModels
     public class Class
     {
 
-
-
-
-
     }
 }
